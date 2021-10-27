@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Foster a shelter animal",
+        "img": "https://vlounteer-events-category.netlify.app/animalShelter.png"
+    },
+    {
+        "name": "Babysit during PTA meetings ",
+        "img": "https://vlounteer-events-category.netlify.app/babySit.png"
+    },
+    {
+        "name": "Build birdhouses for your neighbours",
+        "img": "https://vlounteer-events-category.netlify.app/birdHouse.png"
+    },
+    {
+        "name": "Child Support",
+        "img": "https://vlounteer-events-category.netlify.app/childSupport.png"
+    },
+    {
+        "name": "Clean Water for children",
+        "img": "https://vlounteer-events-category.netlify.app/cleanWater.png"
+    },
+    {
+        "name": "Clean Up Your Local Park",
+        "img": "https://vlounteer-events-category.netlify.app/clearnPark.png"
+    },
+    {
+        "name": "Host a clothing swap",
+        "img": "https://vlounteer-events-category.netlify.app/clothSwap.png"
+    },
+    {
+        "name": "Give seminar on driving safely",
+        "img": "https://vlounteer-events-category.netlify.app/driveSafety.png"
+    },
+    {
+        "name": "Food Charity",
+        "img": "https://vlounteer-events-category.netlify.app/foodCharity.png"
+    },
+    {
+        "name": "Good Education",
+        "img": "https://vlounteer-events-category.netlify.app/goodEducation.png"
+    },
+    {
+        "name": "Give It Help to Local Students ",
+        "img": "https://vlounteer-events-category.netlify.app/ITHelp.png"
+    },
+    {
+        "name": "Organize books at the library",
+        "img": "https://vlounteer-events-category.netlify.app/libraryBooks.png"
+    },
+    {
+        "name": "Give free music lessons",
+        "img": "https://vlounteer-events-category.netlify.app/musicLessons.png"
+    },
+    {
+        "name": "New books for children",
+        "img": "https://vlounteer-events-category.netlify.app/newBooks.png"
+    },
+    {
+        "name": "Refuge Shelter",
+        "img": "https://vlounteer-events-category.netlify.app/refuseShelter.png"
+    },
+    {
+        "name": "Host a river clean up",
+        "img": "https://vlounteer-events-category.netlify.app/riverClean.png"
+    },
+    {
+        "name": "Collect School Supplies",
+        "img": "https://vlounteer-events-category.netlify.app/schoolSuffiles.png"
+    },
+    {
+        "name": "Host a study group",
+        "img": "https://vlounteer-events-category.netlify.app/studyGroup.png"
+    },
+    {
+        "name": "Collect stuffed animals",
+        "img": "https://vlounteer-events-category.netlify.app/stuffedAnimals.png"
+    },
+    {
+        "name": "Teach People How to register  to Vote",
+        "img": "https://vlounteer-events-category.netlify.app/voteRegister.png"
+    }
+]
